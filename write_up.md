@@ -31,7 +31,7 @@ I tuned the hyperparameters mannually.
 
 I found a lot of combination works, and then plot the CTE vs Average error. 
 
-![propotional and differential](./data/P_1_D_20_result.html "P=1  D=20")
+![P=1  D=20](./data/P_1_D_20_result.html)
 
 
-![propotional and differential](./data/P_04_I_00005_D_5_result.html "P=0.4  D=5")
+["P=0.4  D=5"](./data/P_04_I_00005_D_5_result.html)
